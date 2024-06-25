@@ -4,4 +4,4 @@
 - 📫 How to reach me: musayounus95@gmail.com
 - ⚡ Fun fact: I like weightlifting
 
-![](https://komarev.com/ghpvc/?username=musayounus&base=0&color=brightgreen)
+
